@@ -1,3 +1,7 @@
 h1 {
     text-align:center;
 }
+body {
+    background-image: url("photo1");
+    background-color: #cccccc;
+  }
